@@ -10,6 +10,10 @@ a, .btn-link {
     color: #0071c1;
 }
 
+.text-highlight {
+    color: #c44569;
+}
+
 .btn-primary {
     color: #fff;
     background-color: #1b6ec2;
