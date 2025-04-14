@@ -30,10 +30,6 @@ section {
     font-size: 3rem;
 }
 
-.text-purple {
-    color: #574b90;
-}
-
 .wave {
     display: inline-block;
     animation: wave-animation 2s infinite;
@@ -51,38 +47,6 @@ section {
     100% {transform: rotate(0deg);}
 }
 
-.skill-wrapper {
-    max-width: 1000px; 
-    margin: 0 auto;
-    padding: 1rem;
-}
 
-.skill-columns ul {
-    column-count: 4;
-    column-gap: 2rem;
-    list-style: none;
-    padding-left: 0;
-}
 
-@media (max-width: 1200px) {
-    .skill-columns ul {
-        column-count: 3;
-    }
-}
-
-@media (max-width: 992px) {
-    .skill-columns ul {
-        column-count: 2;
-    }
-}
-
-@media (max-width: 576px) {
-    .skill-columns ul {
-        column-count: 1;
-    }
-}
-
-.skill-columns li {
-    margin-bottom: 0.5rem;
-}
 
