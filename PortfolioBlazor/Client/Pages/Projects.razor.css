@@ -20,3 +20,7 @@ a:hover img {
 img {
     transition: 0.5s ease-in-out;
 }
+
+.card-text {
+    color: #2b2c2e;
+}
