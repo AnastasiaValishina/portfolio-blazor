@@ -24,3 +24,7 @@ img {
 .card-text {
     color: #2b2c2e;
 }
+
+.card-title {
+    text-decoration: none;
+}
