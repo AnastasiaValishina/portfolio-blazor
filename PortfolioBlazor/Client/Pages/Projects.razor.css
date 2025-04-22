@@ -10,6 +10,8 @@
 .card {
     transition: box-shadow 0.3s ease-in-out;
     overflow: hidden;
+    height: 100%;
+    width: 100%;
 }
 
 a:hover img {
