@@ -24,6 +24,21 @@ section {
     100% {transform: rotate(0deg);}
 }
 
+.footer {
+    border-top: 1px solid #e0e0e0;
+    font-size: 0.9rem;
+}
+
+    .footer a.email-link {
+        color: #574b90;
+        font-weight: bold;
+        text-decoration: none;
+    }
+
+        .footer a.email-link:hover {
+            text-decoration: underline;
+        }
+
 
 
 
